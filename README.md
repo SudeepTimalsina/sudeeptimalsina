@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/SudeepTimalsina">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Sudeep's GitHub Stats" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Sudeep's GitHub Stats" height="30" width="40" />
   </a>
 </p>
 
