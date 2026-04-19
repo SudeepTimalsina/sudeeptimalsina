@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sudeep Timalsina</h1>
 <h3 align="center">A passionate Full Stack Engineer and Solutions Architect from Australia</h3>
 
-<p align="left">
-  <a href="https://github.com/sudeeptimalsina">
-    <img src="https://github-profile-trophy.vercel.app/?username=sudeeptimalsina" alt="GitHub Trophies" />
+<p align="center">
+  <a href="https://github.com/SudeepTimalsina">
+    <img src="https://github-profile-trophy.vercel.app/?username=SudeepTimalsina" alt="Sudeep Timalsina GitHub Trophies" />
   </a>
 </p>
 
