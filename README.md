@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/SudeepTimalsina">
-    <img src="https://github-profile-trophy.vercel.app/?username=SudeepTimalsina" alt="Sudeep Timalsina GitHub Trophies" />
+    <img src="https://github-readme-stats.vercel.app/api?username=SudeepTimalsina&show_icons=true&theme=radical" alt="Sudeep's GitHub Stats" />
   </a>
 </p>
 
