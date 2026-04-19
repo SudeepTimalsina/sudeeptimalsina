@@ -1,19 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sudeep Timalsina</h1>
 <h3 align="center">A passionate Full Stack Engineer and Solutions Architect from Australia</h3>
 
-<p align="left">
-  <a href="https://github.com/SudeepTimalsina">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Sudeep's GitHub Stats" height="30" width="40" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://linkedin.com/in/sudeeptimalsina" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Connect on Linkedin" height="30" width="40" />
-  </a>
-</p>
-
 ### Blogs posts
+ <a href="https://medium.com/@timalsina-sudeep" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" />
+      </a>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -28,11 +19,6 @@
     <td>
       <a href="https://instagram.com/sudeeptimalsina" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-      </a>
-    </td>
-    <td>
-      <a href="https://medium.com/@timalsina-sudeep" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" />
       </a>
     </td>
   </tr>
