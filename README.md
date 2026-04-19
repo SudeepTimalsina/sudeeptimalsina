@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudeeptimalsina" alt="sudeeptimalsina" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/hey_its_sudeep" target="blank"><img src="https://img.shields.io/twitter/follow/hey_its_sudeep?logo=twitter&style=for-the-badge" alt="hey_its_sudeep" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/in/sudeeptimalsina" target="blank"><img src="[https://img.shields.io/twitter/follow/hey_its_sudeep?logo=twitter&style=for-the-badge](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)" alt="Sudeep Timalsina" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
